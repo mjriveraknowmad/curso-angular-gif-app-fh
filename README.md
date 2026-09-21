@@ -6,5 +6,6 @@ Este proyecto es de carácter educativo, del curso de angular de Fernando Herrer
 
 1. Clonar el repositorio
 2. Instalar las dependencias con `npm install`
+3. Renombrar los archivos environment, quitandole "".example" y ponerle la api key personal
 3. Iniciar el servidor con `ng serve`
 4. Navegar a `http://localhost:4200/`
